@@ -2,8 +2,13 @@
 
 # Description
 
-API Rest project with NodeJS, Express and MongoDB. Developed to be consumed by "ReactJS Accounts".
+Login 
+Sign Up 
+Home: Users CRUD 
+
 
 ## Build With
 
 - React
+- Firebase Auth
+- Cloud Firestore
