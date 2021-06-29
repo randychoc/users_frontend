@@ -1,11 +1,10 @@
 # Users Frontend
 
 # Description
-
-Login 
-Sign Up 
-Home: Users CRUD 
-
+React JS Web App 
+- Login 
+- Sign Up 
+- Home: Users CRUD 
 
 ## Build With
 
